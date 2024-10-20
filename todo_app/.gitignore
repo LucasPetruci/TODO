@@ -29,7 +29,11 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
+# Ignore a pasta build, exceto a pasta build/web
+build/*
+!build/web
+!build/web/**
+
 
 # Symbolication related
 app.*.symbols
