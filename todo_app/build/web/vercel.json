@@ -1,0 +1,4 @@
+{
+  "public": "build/web",
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+}
