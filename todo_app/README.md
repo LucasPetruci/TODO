@@ -1,16 +1,23 @@
-# todo_app
+# Aplicativo TODO
 
-A new Flutter project.
+Este é um aplicativo de tarefas simples desenvolvido usando **Flutter**. Ele permite que os usuários gerenciem suas tarefas com funcionalidades básicas de CRUD (Criar, Ler, Atualizar, Excluir).
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Adicionar novas tarefas
+- Marcar tarefas como concluídas
+- Editar tarefas
+- Excluir tarefas
+- Armazenamento local das tarefas utilizando **Hive**
+- Interface simples e fácil de usar
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Framework de desenvolvimento multiplataforma
+- **Dart**: Linguagem de programação utilizada pelo Flutter
+- **Hive**: Banco de dados NoSQL rápido e leve para armazenamento local
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo Online
+Você pode acessar a versão online do aplicativo através deste link: [TODO App Online](https://virtual-cell-phone.vercel.app/app/To-do)
+
+
